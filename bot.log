@@ -1,0 +1,285 @@
+2025-04-20 01:01:40,274 - __main__ - INFO - Starting bot...
+2025-04-20 01:01:53,403 - __main__ - ERROR - Failed to notify admin 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 01:01:53,403 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 01:01:53,454 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 01:02:32,709 - __main__ - INFO - New message from 1087968824 (@GroupAnonymousBot): А можно рассказать поподробнее о Mechanize?
+2025-04-20 01:02:33,455 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 409 Conflict"
+2025-04-20 01:02:33,458 - __main__ - INFO - Processing reply message 28 to 27
+2025-04-20 01:02:34,557 - __main__ - INFO - Message 28 is question: False
+2025-04-20 01:02:34,557 - aiogram.event - INFO - Update id=259840357 is handled. Duration 1849 ms by bot id=7557284403
+2025-04-20 01:02:55,805 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 01:02:55,806 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 01:02:55,806 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 01:02:56,068 - __main__ - ERROR - Failed to notify admin 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 02:32:38,444 - __main__ - INFO - Запуск бота...
+2025-04-20 02:32:39,106 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 02:32:39,107 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 02:32:39,164 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:32:45,265 - __main__ - INFO - Бот выключен администратором 899689506
+2025-04-20 02:32:45,266 - aiogram.event - INFO - Update id=259840361 is handled. Duration 225 ms by bot id=7557284403
+2025-04-20 02:32:46,521 - aiogram.event - INFO - Update id=259840362 is handled. Duration 247 ms by bot id=7557284403
+2025-04-20 02:32:47,771 - __main__ - INFO - Бот включен администратором 899689506
+2025-04-20 02:32:47,771 - aiogram.event - INFO - Update id=259840363 is handled. Duration 204 ms by bot id=7557284403
+2025-04-20 02:32:49,084 - aiogram.event - INFO - Update id=259840364 is handled. Duration 99 ms by bot id=7557284403
+2025-04-20 02:33:02,872 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:33:02,878 - __main__ - INFO - Обнаружен вопрос в сообщении 32
+2025-04-20 02:33:03,567 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 02:33:15,642 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:33:15,806 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 32
+2025-04-20 02:33:15,816 - aiogram.event - INFO - Update id=259840365 is handled. Duration 13696 ms by bot id=7557284403
+2025-04-20 02:34:13,086 - __main__ - INFO - Ответ отклонен для сообщения 32
+2025-04-20 02:34:13,088 - aiogram.event - INFO - Update id=259840366 is handled. Duration 86 ms by bot id=7557284403
+2025-04-20 02:34:43,561 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 02:34:43,562 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:34:43,563 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 02:39:47,582 - __main__ - INFO - Запуск бота...
+2025-04-20 02:39:47,895 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 02:39:47,895 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 02:39:47,952 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:40:03,248 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:40:03,251 - __main__ - INFO - Обнаружен вопрос в сообщении 33
+2025-04-20 02:40:03,834 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 02:40:15,918 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:40:16,172 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 33
+2025-04-20 02:40:16,173 - aiogram.event - INFO - Update id=259840367 is handled. Duration 14924 ms by bot id=7557284403
+2025-04-20 02:45:34,427 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 02:45:34,429 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:45:34,429 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 02:45:39,624 - __main__ - INFO - Запуск бота...
+2025-04-20 02:45:39,924 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 02:45:39,924 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 02:45:39,977 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:46:03,421 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:46:03,424 - __main__ - INFO - Обнаружен вопрос в сообщении 34
+2025-04-20 02:46:04,076 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 02:46:19,558 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:46:19,835 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 34
+2025-04-20 02:46:19,835 - aiogram.event - INFO - Update id=259840368 is handled. Duration 18110 ms by bot id=7557284403
+2025-04-20 02:46:40,778 - __main__ - ERROR - Ошибка при отправке ответа для сообщения 34: Telegram server says - Bad Request: message to be replied not found
+2025-04-20 02:46:40,779 - aiogram.event - INFO - Update id=259840369 is handled. Duration 147 ms by bot id=7557284403
+2025-04-20 02:59:00,763 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 02:59:00,764 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:59:00,764 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 02:59:05,321 - __main__ - INFO - Запуск бота...
+2025-04-20 02:59:05,676 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 02:59:05,676 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 02:59:05,734 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 02:59:21,591 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 409 Conflict"
+2025-04-20 02:59:22,615 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:59:22,617 - __main__ - INFO - Обнаружен вопрос в сообщении 35
+2025-04-20 02:59:22,798 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 02:59:35,110 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 02:59:35,382 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 35
+2025-04-20 02:59:35,383 - aiogram.event - INFO - Update id=259840370 is handled. Duration 14517 ms by bot id=7557284403
+2025-04-20 02:59:48,751 - __main__ - ERROR - Ошибка при отправке ответа для сообщения 35: Telegram server says - Bad Request: message to be replied not found
+2025-04-20 02:59:48,751 - aiogram.event - INFO - Update id=259840371 is handled. Duration 198 ms by bot id=7557284403
+2025-04-20 03:14:39,487 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 03:14:39,494 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 03:14:39,495 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 03:14:44,350 - __main__ - INFO - Запуск бота...
+2025-04-20 03:14:44,636 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 03:14:44,637 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 03:14:44,690 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 03:14:59,288 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 03:14:59,699 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 03:15:00,277 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 03:15:00,280 - __main__ - INFO - Обнаружен вопрос в сообщении 36
+2025-04-20 03:15:00,376 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 03:15:11,575 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 03:15:11,837 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 36
+2025-04-20 03:15:11,837 - aiogram.event - INFO - Update id=259840372 is handled. Duration 13182 ms by bot id=7557284403
+2025-04-20 03:15:32,884 - __main__ - ERROR - ❌ Ошибка при отправке ответа: Telegram server says - Forbidden: bots can't send messages to bots
+2025-04-20 03:15:33,039 - aiogram.event - INFO - Update id=259840373 is handled. Duration 366 ms by bot id=7557284403
+2025-04-20 15:23:06,402 - __main__ - INFO - Запуск бота...
+2025-04-20 15:23:06,751 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 15:23:06,752 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 15:23:06,810 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:23:07,698 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:23:07,712 - aiogram.event - INFO - Update id=259840374 is handled. Duration 838 ms by bot id=7557284403
+2025-04-20 15:23:17,401 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:23:17,507 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:23:18,512 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:23:18,516 - __main__ - INFO - Обнаружен вопрос в сообщении 38
+2025-04-20 15:23:18,665 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:23:32,606 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:23:32,864 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 38
+2025-04-20 15:23:32,864 - aiogram.event - INFO - Update id=259840375 is handled. Duration 15744 ms by bot id=7557284403
+2025-04-20 15:24:55,316 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:24:55,426 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:24:56,261 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:24:56,264 - __main__ - INFO - Обнаружен вопрос в сообщении 39
+2025-04-20 15:24:56,367 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:25:05,308 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:25:05,431 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 39
+2025-04-20 15:25:05,431 - aiogram.event - INFO - Update id=259840376 is handled. Duration 10468 ms by bot id=7557284403
+2025-04-20 15:30:47,548 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 15:30:47,554 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:30:47,554 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 15:30:52,352 - __main__ - INFO - Запуск бота...
+2025-04-20 15:30:52,719 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 15:30:52,719 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 15:30:52,778 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:31:01,529 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:31:01,656 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 409 Conflict"
+2025-04-20 15:31:02,588 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:31:02,590 - __main__ - INFO - Обнаружен вопрос в сообщении 40
+2025-04-20 15:31:02,681 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:31:15,492 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:31:15,954 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 40
+2025-04-20 15:31:15,954 - aiogram.event - INFO - Update id=259840377 is handled. Duration 14861 ms by bot id=7557284403
+2025-04-20 15:31:25,705 - __main__ - INFO - Ответ одобрен и отправлен для сообщения 40
+2025-04-20 15:31:25,705 - aiogram.event - INFO - Update id=259840378 is handled. Duration 210 ms by bot id=7557284403
+2025-04-20 15:39:38,399 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 15:39:38,401 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:39:38,402 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 15:39:43,170 - __main__ - INFO - Запуск бота...
+2025-04-20 15:39:43,507 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 15:39:43,508 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 15:39:43,566 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:39:54,207 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:39:54,336 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:39:55,091 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:39:55,093 - __main__ - INFO - Обнаружен вопрос в сообщении 41
+2025-04-20 15:39:55,173 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:40:06,560 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:40:06,910 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 41
+2025-04-20 15:40:06,910 - aiogram.event - INFO - Update id=259840379 is handled. Duration 13157 ms by bot id=7557284403
+2025-04-20 15:40:11,275 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.41 "HTTP/2 200 OK"
+2025-04-20 15:40:11,450 - __main__ - ERROR - ❌ Ошибка при отправке ответа: 'chat_id'
+2025-04-20 15:40:11,681 - aiogram.event - INFO - Update id=259840380 is handled. Duration 727 ms by bot id=7557284403
+2025-04-20 15:42:27,310 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 15:42:27,313 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:42:27,313 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 15:42:34,262 - __main__ - INFO - Запуск бота...
+2025-04-20 15:42:34,588 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 15:42:34,588 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 15:42:34,643 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:42:47,125 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:42:47,340 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:42:48,105 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:42:48,107 - __main__ - INFO - Обнаружен вопрос в сообщении 42
+2025-04-20 15:42:48,330 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:42:58,387 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:42:58,746 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 42
+2025-04-20 15:42:58,746 - aiogram.event - INFO - Update id=259840381 is handled. Duration 12301 ms by bot id=7557284403
+2025-04-20 15:43:05,291 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.42 "HTTP/2 200 OK"
+2025-04-20 15:43:05,439 - __main__ - INFO - Найден linked_chat_id: -1002591072422
+2025-04-20 15:43:05,717 - __main__ - INFO - Ответ одобрен и отправлен для сообщения 42
+2025-04-20 15:43:05,717 - aiogram.event - INFO - Update id=259840382 is handled. Duration 656 ms by bot id=7557284403
+2025-04-20 15:43:17,798 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.40 "HTTP/2 200 OK"
+2025-04-20 15:43:17,946 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:43:19,072 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:43:19,074 - __main__ - INFO - Обнаружен вопрос в сообщении 44
+2025-04-20 15:43:19,174 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.40 "HTTP/2 200 OK"
+2025-04-20 15:43:19,681 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-20 15:43:19,682 - __main__ - ERROR - Ошибка при генерации ответа: API error occurred: Status 429
+{"message":"Requests rate limit exceeded"}
+2025-04-20 15:43:19,683 - __main__ - WARNING - Не удалось сгенерировать ответ на вопрос
+2025-04-20 15:43:19,842 - aiogram.event - INFO - Update id=259840383 is handled. Duration 2319 ms by bot id=7557284403
+2025-04-20 15:43:47,546 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.42 "HTTP/2 200 OK"
+2025-04-20 15:43:47,628 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:43:48,516 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:43:48,517 - __main__ - INFO - Обнаружен вопрос в сообщении 45
+2025-04-20 15:43:48,631 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.42 "HTTP/2 200 OK"
+2025-04-20 15:43:48,632 - __main__ - WARNING - Не найдены данные поста 42
+2025-04-20 15:43:48,782 - aiogram.event - INFO - Update id=259840384 is handled. Duration 1429 ms by bot id=7557284403
+2025-04-20 15:54:14,041 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 15:54:14,047 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:54:14,047 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 15:54:27,475 - __main__ - INFO - Запуск бота...
+2025-04-20 15:54:27,809 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 15:54:27,810 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 15:54:27,865 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:54:37,697 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:54:37,879 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:54:37,881 - __main__ - ERROR - Критическая ошибка при обработке сообщения 46: cannot access local variable 'parent_message' where it is not associated with a value
+2025-04-20 15:54:38,330 - aiogram.event - INFO - Update id=259840385 is handled. Duration 1330 ms by bot id=7557284403
+2025-04-20 15:55:30,256 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 15:55:30,258 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:55:30,258 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-20 15:55:34,449 - __main__ - INFO - Запуск бота...
+2025-04-20 15:55:34,769 - __main__ - ERROR - Не удалось отправить сообщение админу 937734224: Telegram server says - Bad Request: chat not found
+2025-04-20 15:55:34,770 - aiogram.dispatcher - INFO - Start polling
+2025-04-20 15:55:34,821 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:55:46,898 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:55:46,975 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:55:47,895 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:55:47,897 - __main__ - INFO - Обнаружен вопрос в сообщении 47
+2025-04-20 15:55:47,967 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.27 "HTTP/2 200 OK"
+2025-04-20 15:55:59,736 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-20 15:56:00,006 - __main__ - INFO - Ответ сгенерирован и отправлен на одобрение для сообщения 47
+2025-04-20 15:56:00,006 - aiogram.event - INFO - Update id=259840386 is handled. Duration 13440 ms by bot id=7557284403
+2025-04-20 15:56:03,302 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.47 "HTTP/2 200 OK"
+2025-04-20 15:56:03,423 - __main__ - INFO - Найден linked_chat_id: -1002591072422
+2025-04-20 15:56:03,682 - __main__ - INFO - Ответ одобрен и отправлен для сообщения 47
+2025-04-20 15:56:03,682 - aiogram.event - INFO - Update id=259840387 is handled. Duration 862 ms by bot id=7557284403
+2025-04-20 15:56:14,781 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.44 "HTTP/2 200 OK"
+2025-04-20 15:56:14,871 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-20 15:56:14,872 - aiogram.event - INFO - Update id=259840388 is handled. Duration 360 ms by bot id=7557284403
+2025-04-20 15:57:58,988 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-20 15:57:58,990 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-20 15:57:58,990 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-27 13:40:24,560 - __main__ - INFO - ������ ����...
+2025-04-27 13:40:25,059 - aiogram.dispatcher - INFO - Start polling
+2025-04-27 13:40:25,116 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:40:36,754 - aiogram.event - INFO - Update id=259840443 is handled. Duration 1808 ms by bot id=7557284403
+2025-04-27 13:40:56,574 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:40:56,588 - __main__ - ERROR - ������ ��� ��������� ��������� 84: Database.insert_message() got an unexpected keyword argument 'chat_id'
+2025-04-27 13:40:56,589 - aiogram.event - INFO - Update id=259840444 is handled. Duration 823 ms by bot id=7557284403
+2025-04-27 13:41:24,620 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-27 13:41:24,887 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:42:13,725 - __main__ - INFO - ������ ����...
+2025-04-27 13:42:14,102 - aiogram.dispatcher - INFO - Start polling
+2025-04-27 13:42:14,166 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:42:18,180 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:42:18,322 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 400 Bad Request"
+2025-04-27 13:42:19,610 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 13:42:19,621 - __main__ - INFO - ��������� ������ � ��������� 85
+2025-04-27 13:42:19,716 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:42:26,025 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 13:42:26,479 - __main__ - ERROR - ������ ��� ��������� ��������� 85: 'Bot' object has no attribute 'username'
+2025-04-27 13:42:26,480 - aiogram.event - INFO - Update id=259840445 is handled. Duration 8759 ms by bot id=7557284403
+2025-04-27 13:44:11,946 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:11,946 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7557284403)
+2025-04-27 13:44:17,034 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:17,035 - aiogram.dispatcher - WARNING - Sleep for 1.234739 seconds and try again... (tryings = 1, bot id = 7557284403)
+2025-04-27 13:44:22,568 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:22,568 - aiogram.dispatcher - WARNING - Sleep for 1.616085 seconds and try again... (tryings = 2, bot id = 7557284403)
+2025-04-27 13:44:29,048 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:29,048 - aiogram.dispatcher - WARNING - Sleep for 2.072594 seconds and try again... (tryings = 3, bot id = 7557284403)
+2025-04-27 13:44:36,667 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:36,668 - aiogram.dispatcher - WARNING - Sleep for 2.836145 seconds and try again... (tryings = 4, bot id = 7557284403)
+2025-04-27 13:44:45,787 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:45,787 - aiogram.dispatcher - WARNING - Sleep for 3.725423 seconds and try again... (tryings = 5, bot id = 7557284403)
+2025-04-27 13:44:53,722 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:44:53,723 - aiogram.dispatcher - WARNING - Sleep for 4.944263 seconds and try again... (tryings = 6, bot id = 7557284403)
+2025-04-27 13:45:03,867 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:45:03,868 - aiogram.dispatcher - WARNING - Sleep for 4.830230 seconds and try again... (tryings = 7, bot id = 7557284403)
+2025-04-27 13:45:13,760 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-04-27 13:45:13,761 - aiogram.dispatcher - WARNING - Sleep for 5.104120 seconds and try again... (tryings = 8, bot id = 7557284403)
+2025-04-27 13:45:22,319 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-27 13:45:22,571 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:45:50,526 - __main__ - INFO - ������ ����...
+2025-04-27 13:45:50,860 - aiogram.dispatcher - INFO - Start polling
+2025-04-27 13:45:50,920 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:46:07,920 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:46:08,023 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 400 Bad Request"
+2025-04-27 13:46:08,597 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 13:46:08,604 - __main__ - INFO - ��������� ������ � ��������� 87
+2025-04-27 13:46:08,696 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:46:13,349 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 13:46:13,907 - __main__ - ERROR - ������ ��� ��������� ��������� 87: 'Bot' object has no attribute 'username'
+2025-04-27 13:46:13,907 - aiogram.event - INFO - Update id=259840446 is handled. Duration 6592 ms by bot id=7557284403
+2025-04-27 13:47:28,354 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-27 13:47:28,620 - aiogram.dispatcher - INFO - Polling stopped for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:47:32,273 - __main__ - INFO - ������ ����...
+2025-04-27 13:47:32,671 - aiogram.dispatcher - INFO - Start polling
+2025-04-27 13:47:32,734 - aiogram.dispatcher - INFO - Run polling for bot @SkipZnatokBot id=7557284403 - 'Znatok'
+2025-04-27 13:47:40,089 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:47:40,197 - httpx - INFO - HTTP Request: POST https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages "HTTP/2 201 Created"
+2025-04-27 13:47:40,679 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 13:47:40,686 - __main__ - INFO - ��������� ������ � ��������� 89
+2025-04-27 13:47:40,801 - httpx - INFO - HTTP Request: GET https://syvjxtiakmfnqyarfbho.supabase.co/rest/v1/messages?select=%2A&telegram_id=eq.81 "HTTP/2 200 OK"
+2025-04-27 13:47:45,250 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-27 13:47:45,720 - __main__ - ERROR - ������ ��� ��������� ��������� 89: 'Bot' object has no attribute 'username'
+2025-04-27 13:47:45,721 - aiogram.event - INFO - Update id=259840447 is handled. Duration 6092 ms by bot id=7557284403
